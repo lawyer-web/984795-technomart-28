@@ -1,0 +1,9 @@
+/* Variables */
+/* top background-background: rgba(0, 0, 0, 0.0001);
+    background: #888888;
+    background: #FFFFFF; */
+:root {
+  --basic-white: #888888;
+  --basic-top: rgba(0, 0, 0, 0.0001);
+  --basic-light: #FFFFFF;
+}
